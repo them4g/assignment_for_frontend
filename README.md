@@ -1,2 +1,1 @@
-# assignment_for_frontend
-Test assignment for frontend developers.
+# Assignment for frontend developers
